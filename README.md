@@ -4,5 +4,5 @@
 <ul>
   <li>Antônio Augusto Bezerra Sandes Martins<li>Ana Beatriz de Lima Romero
   <li>Danilo
-    <li>Guilherme
-      <li>Gabriel
+    <li>Guilherme Brito de Oliveira
+      <li>Gabriel Bezerra Pereira
