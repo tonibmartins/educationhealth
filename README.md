@@ -2,6 +2,6 @@
 
 <h2>Integrantes</h2>
 <ul>
-  <li>Antônio Augusto Bezerra Sandes Martins<li>
+  <li>Antônio Augusto Bezerra Sandes Martins<li>Ana Beatriz de Lima Romero
   <li> Ana Beatriz de Lima Romero<li>
   <ul>
