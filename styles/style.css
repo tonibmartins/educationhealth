@@ -107,7 +107,8 @@ body {
 }
 
 .lista-sintomas{
-    padding-left: 45%;
+    padding-left: 44%;
+    padding-right: 35%;
     color: var(--cor-terciaria);
     font-family: var(--font-principal);
     font-size: 1.25rem;
